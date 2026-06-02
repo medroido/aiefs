@@ -41,6 +41,7 @@ Thumbs.db
 .vscode/
 *.log
 
+# python checkpoints
 data/
 models/
 checkpoints/
